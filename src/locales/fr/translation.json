@@ -1,0 +1,22 @@
+{
+  "translate":{
+    "forbiden":"Page introuvable",
+    "header":{
+      "first":{
+        "login":"Connexion",
+        "register":"Enregistrement",
+        "discon":"déconnexion"
+      },
+     "second":{
+       "home":"Accueil",
+       "epice":"Epices",
+       "the":"Thés & infusions",
+       "accessoire":"Accessoires",
+       "coffret":"Coffrets & cadeaux",
+       "search":"Rechercher"
+     }
+    },
+    "footer":[],
+    "home":[]
+    }
+}

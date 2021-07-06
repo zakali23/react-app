@@ -1,0 +1,22 @@
+{
+  "translate":{
+    "forbiden":"Page not found",
+    "header":{
+      "first":{
+        "login":"Login",
+        "register":"Register",
+        "discon":"Logout"
+      },
+     "second":{
+       "home":"Home",
+       "epice":"Spices",
+       "the":"Teas & infusions",
+       "accessoire":"Accessories",
+       "coffret":"Gift boxes",
+       "search":"Search"
+     }
+    },
+    "footer":[],
+    "home":[]
+    }
+}
